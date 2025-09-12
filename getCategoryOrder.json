@@ -1,17 +1,17 @@
 {
   "getCategoryOrder": [
-    "NEW ITEMS",
-    "NOUNA'S FOOD",
-    "CHIPS",
-    "NUTS",
-    "ICE CREAM",
-    "READY TO EAT",
-    "FOOD",
-    "VEGETABLES AND FRUITS",
-    "BEVERAGES",
-    "HOME USAGE",
-    "PET SUPPLIES",
-    "ALCOHOL 18+ (RESTRICTED)",
-    "TOBACCO 18+ (RESTRICTED)"
+    "NEW ITEMS": 1,
+    "NOUNA'S FOOD": 2,
+    "CHIPS": 3,
+    "NUTS": 4,
+    "ICE CREAM": 5,
+    "READY TO EAT": 6,
+    "FOOD": 7,
+    "VEGETABLES AND FRUITS": 8,
+    "BEVERAGES": 9,
+    "HOME USAGE": 10,
+    "PET SUPPLIES": 11,
+    "ALCOHOL 18+ (RESTRICTED)": 12,
+    "TOBACCO 18+ (RESTRICTED)": 13
   ]
 }
