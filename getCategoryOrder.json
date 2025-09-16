@@ -12,6 +12,7 @@
     "HOME USAGE": 10,
     "PET SUPPLIES": 11,
     "ALCOHOL 18+ (RESTRICTED)": 12,
-    "TOBACCO 18+ (RESTRICTED)": 13
+    "TOBACCO 18+ (RESTRICTED)": 13,
+    "offers": 14
   ]
 }
