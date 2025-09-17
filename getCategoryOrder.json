@@ -1,5 +1,5 @@
 {
-  "getCategoryOrder": [
+  "getCategoryOrder": {
     "NEW ITEMS": 1,
     "NOUNA'S FOOD": 2,
     "CHIPS": 3,
@@ -13,6 +13,6 @@
     "PET SUPPLIES": 11,
     "ALCOHOL 18+ (RESTRICTED)": 12,
     "TOBACCO 18+ (RESTRICTED)": 13,
-    "offers": 14
-  ]
+    "HOT OFFERS": 14
+  }
 }
