@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-25T16:28:24+02:00",
+ "updated": "2026-11-25T19:41:41+02:00",
  "note": "Store photos changed in the last 30 days (photo detector). Cashier POS screens re-download these files when the blob differs from their copy.",
  "items": {
   "ID400006.jpg": {
@@ -1200,8 +1200,8 @@
   "ID301475.jpg": {
    "file": "ID301475.jpg",
    "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID301475.jpg",
-   "blob": "3afd6ef57ce6fc981a8889618d8e318ad2b7eaa3",
-   "at": "2026-11-25T14:38:34+02:00"
+   "blob": "f9c8c4510560f3dc31b140dc7f312192a50dda4a",
+   "at": "2026-11-25T19:41:41+02:00"
   },
   "ID301476.jpg": {
    "file": "ID301476.jpg",
