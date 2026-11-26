@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-26T23:31:38+02:00",
+ "updated": "2026-11-27T00:14:08+02:00",
  "note": "Store photos changed in the last 30 days (photo detector). Cashier POS screens re-download these files when the blob differs from their copy.",
  "items": {
   "ID400006.jpg": {
@@ -1292,6 +1292,144 @@
    "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID300169.jpg",
    "blob": "6a41da1979b1b6b5977a9ced9dc35335bbef46b4",
    "at": "2026-11-26T23:31:38+02:00"
+  },
+  "ID13.jpg": {
+   "file": "ID13.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID13.jpg",
+   "blob": "19dcb29363d91506d28baad5d2c3fdc9b19cd331",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID79.jpg": {
+   "file": "ID79.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID79.jpg",
+   "blob": "3cd1f2c9568ad7b761920b236a77a68de237db9b",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID191.jpg": {
+   "file": "ID191.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID191.jpg",
+   "blob": "aa5ab0bf44a945c0d359198cf61f79de3432ea03",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID381.jpg": {
+   "file": "ID381.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID381.jpg",
+   "blob": "316fe3588c7b3f652c9b26be8b940bea67cf8d08",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID753.jpg": {
+   "file": "ID753.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID753.jpg",
+   "blob": "64afab987ebbd263b3b114db3f83bb856c288269",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID762.jpg": {
+   "file": "ID762.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID762.jpg",
+   "blob": "f32ebdf4031457e09521731ca2b259fed524622d",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID835.jpg": {
+   "file": "ID835.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID835.jpg",
+   "blob": "456b5c4f978537eb0e057cdf66c4d365e99277ad",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID898.jpg": {
+   "file": "ID898.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID898.jpg",
+   "blob": "e89b47dec3ca6bd7b339f6a020dee65a4e5bf0fe",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID1251.jpg": {
+   "file": "ID1251.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1251.jpg",
+   "blob": "62e0b7fa3dc3bf7dcaa527bb88ba6bc4a51f2f66",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID1326.jpg": {
+   "file": "ID1326.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1326.jpg",
+   "blob": "19376edc231c60a012df2bb994573b74cd547011",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID1458.jpg": {
+   "file": "ID1458.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1458.jpg",
+   "blob": "66707a9d219164ae94b4813e8133e22f78a5a49b",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID1873.jpg": {
+   "file": "ID1873.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID1873.jpg",
+   "blob": "354c73dc26e7a2f3b85aa3120544a7b7354b363d",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2380.jpg": {
+   "file": "ID2380.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2380.jpg",
+   "blob": "fcf6c9b59861605ae9a7208e845afd399cd03115",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2383.jpg": {
+   "file": "ID2383.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2383.jpg",
+   "blob": "18c815e2ae2aa9edc10e3f482974347d31bc1df1",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2385.jpg": {
+   "file": "ID2385.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2385.jpg",
+   "blob": "b1fa2a4a8a68ff9230d2d431b2d292fa30c74440",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2476.jpg": {
+   "file": "ID2476.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2476.jpg",
+   "blob": "beb47badc7093b855f1c547f9417a4132eac562c",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2477.jpg": {
+   "file": "ID2477.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2477.jpg",
+   "blob": "60d43ca4e3307261089f66a7b18a1110e2487470",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2484.jpg": {
+   "file": "ID2484.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2484.jpg",
+   "blob": "03ef37883e557384fcba886caff64f8213134354",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2606.jpg": {
+   "file": "ID2606.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2606.jpg",
+   "blob": "ab69492c1c454a9d633a5511faeda329c8f354a6",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2608.jpg": {
+   "file": "ID2608.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2608.jpg",
+   "blob": "4f1020bb587b7276149197e32941454c6602af67",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2624.jpg": {
+   "file": "ID2624.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2624.jpg",
+   "blob": "0aabd5a12386f8aa1e8cc67bbe10bb5662e01249",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2824.jpg": {
+   "file": "ID2824.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2824.jpg",
+   "blob": "ea37578a0bf763b30dd5d08bdeb6f87224102286",
+   "at": "2026-11-27T00:14:08+02:00"
+  },
+  "ID2928.jpg": {
+   "file": "ID2928.jpg",
+   "url": "https://raw.githubusercontent.com/mahfouzmarket/PRODUCTS/main/images/ID2928.jpg",
+   "blob": "d3cfd65ca23cecca4e99ed07bd7abc27ee5806ca",
+   "at": "2026-11-27T00:14:08+02:00"
   }
  }
 }
